@@ -13,4 +13,5 @@ Para inciar este proyecto, es necesario que todos los participantes tengan sus c
 
 - Daniel Guzman, dguzman-ort
 - Tomás Bogado, bgdtomas
+- Sebastian Bianco, SebastianBianco
 - Giuliano Delle Chiaie, giulianodelle
